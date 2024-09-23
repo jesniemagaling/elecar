@@ -333,16 +333,6 @@ a {
     opacity: 1;
 }
 
-/* 
-.section-3-images .featured-img img {
-    position: absolute;
-    background-color: transparent;
-    inset: 0;
-    top: 5em;
-    margin: auto;
-    max-width: 40em;
-} */
-
 .section-3-info{
     position: absolute;
     max-width: 8em;
